@@ -14,7 +14,7 @@ Spring 2019, Carnegie Mellon University
 	
 ## TODO
 	
-- Pose estimation
+- [ ] Pose estimation
 	- [ ] Pose
 	- [ ] Face
 	- [ ] Hand
