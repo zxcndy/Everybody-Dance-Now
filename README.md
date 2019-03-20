@@ -1,13 +1,15 @@
 # Everybody-Dance-Now reproduced in pytorch
 	
-Written by Michell Li, Karan, Cindy Zhang for Introduction to Artificial Intelligence Course<br>
+Written by Michell Li, Karan Rathour, Cindy Zhang for Introduction to Artificial Intelligence Course<br>
 <br>
-Spring 2019
+Spring 2019, Carnegie Mellon University
 	
 ## Reference:
 	
 [nyoki-mtl](https://github.com/nyoki-mtl) pytorch-EverybodyDanceNow
+
 [Lotayou](https://github.com/Lotayou) everybody_dance_now_pytorch
+
 [CUHKSZ-TQL](https://github.com/CUHKSZ-TQL) EverybodyDanceNow_reproduce_pytorch
 	
 ## TODO
