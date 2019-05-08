@@ -68,4 +68,6 @@ This is comparision in original (left), generated image before face enhancement 
 ![Result](/result/output.gif)
 	
 	
-	
+#### Credits
+https://github.com/NiteshBharadwaj/part-affinity
+https://github.com/NiteshBharadwaj/part-affinity
