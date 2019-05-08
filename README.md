@@ -70,4 +70,4 @@ This is comparision in original (left), generated image before face enhancement 
 	
 #### Credits
 https://github.com/NiteshBharadwaj/part-affinity
-https://github.com/NiteshBharadwaj/part-affinity
+https://github.com/CUHKSZ-TQL/EverybodyDanceNow_reproduce_pytorch
