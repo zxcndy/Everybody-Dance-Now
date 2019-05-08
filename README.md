@@ -14,11 +14,11 @@ Spring 2019, Carnegie Mellon University
 	
 ## TODO
 	
-- [ ] Pose estimation
-	- [ ] Pose
+- [x] Pose estimation
+	- [x] Pose
 	- [ ] Face
 	- [ ] Hand
-- [ ] pix2pixHD
+- [x] pix2pixHD
 - [ ] FaceGAN
 - [ ] Temporal smoothing
 	
