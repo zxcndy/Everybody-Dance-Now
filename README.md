@@ -49,23 +49,17 @@ Spring 2019, Carnegie Mellon University
 * Run `train_pose2vid.py` and check loss and full training process in `./checkpoints/`
 * If you break the traning and want to continue last training, set `load_pretrain = './checkpoints/target/` in `./src/config/train_opt.py`
 * Run `normalization.py` rescale the label images, you can use two sample images from `./data/target/train/train_label/` and `./data/source/test_label_ori/` to complete normalization between two skeleton size
-* Run `transfer.py` and get results in `./result`
-#### Face enhancement network
-	
-![](/result/pic2.png)
+* Run `transfer.py` and get results in `./output`
+
 #### Train and use face enhancement network
 * Run `./face_enhancer/prepare.py` and check the results in `./data/face/test_sync` and `./data/face/test_real`.
 * Run `./face_enhancer/main.py` train face enhancer and run`./face_enhancer/enhance.py` to gain results <br>
 This is comparision in original (left), generated image before face enhancement (median) and after enhancement (right). FaceGAN can learn the residual error between the real picture and the generated picture faces.
 	
-#### Performance of face enhancement 
-![](/result/37500_enhanced_full.png)
-![](/result/37500_enhanced_head.png)
-	
 #### Gain results
 * Run `make_gif.py` and make result pictures to gif picture
 	
-![Result](/result/output.gif)
+![Result](/michelle.gif)
 	
 	
 #### Credits
