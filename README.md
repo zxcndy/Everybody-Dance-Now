@@ -40,7 +40,6 @@ Spring 2019, Carnegie Mellon University
 ## Full process
 #### Pose2vid network
 	
-![](/result/pic1.png)
 #### Make source pictures
 * Put source video mv.mp4 in `./data/source/` and run `make_source.py`, the label images and coordinate of head will save in `./data/source/test_label_ori/` and `./data/source/pose_souce.npy` (will use in step6). If you want to capture video by camera, you can directly run `./src/utils/save_img.py`
 #### Make target pictures
@@ -58,9 +57,8 @@ This is comparision in original (left), generated image before face enhancement 
 	
 #### Gain results
 * Run `make_gif.py` and make result pictures to gif picture
-	
 ![Result](/michelle.gif)
-	
+![Result](/120.gif)
 	
 #### Credits
 https://github.com/NiteshBharadwaj/part-affinity
